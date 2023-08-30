@@ -1,0 +1,706 @@
+Epoch: 1 | Iter:    0 | Time: 00:00:05 | Train_A Loss: 0.3404 | Train_B Loss: 0.3602
+Epoch: 1 | Iter:   20 | Time: 00:01:57 | Train_A Loss: 0.2963 | Train_B Loss: 0.3166
+Epoch: 1 | Iter:   40 | Time: 00:03:49 | Train_A Loss: 0.2792 | Train_B Loss: 0.2901
+Epoch: 1 | Iter:   60 | Time: 00:05:41 | Train_A Loss: 0.2961 | Train_B Loss: 0.3044
+Epoch: 1 | Iter:   80 | Time: 00:07:33 | Train_A Loss: 0.2748 | Train_B Loss: 0.2778
+Epoch: 1 | Iter:  100 | Time: 00:09:25 | Train_A Loss: 0.2743 | Train_B Loss: 0.2775
+Epoch: 1 | Iter:  120 | Time: 00:11:17 | Train_A Loss: 0.2841 | Train_B Loss: 0.2748
+Epoch: 1 | Iter:  140 | Time: 00:13:09 | Train_A Loss: 0.2661 | Train_B Loss: 0.2665
+
+ EPOCH 1/10000 	 Avg. Train_A loss this Epoch 0.2813301086425781 	 Avg. Train_B loss this Epoch 0.2820540964603424 	 Test loss A 0.06385359168052673 	 Test loss B 0.06444135308265686
+Epoch: 2 | Iter:    0 | Time: 00:14:54 | Train_A Loss: 0.2584 | Train_B Loss: 0.2690
+Epoch: 2 | Iter:   20 | Time: 00:16:46 | Train_A Loss: 0.2606 | Train_B Loss: 0.2683
+Epoch: 2 | Iter:   40 | Time: 00:18:39 | Train_A Loss: 0.2624 | Train_B Loss: 0.2509
+Epoch: 2 | Iter:   60 | Time: 00:20:30 | Train_A Loss: 0.2520 | Train_B Loss: 0.2600
+Epoch: 2 | Iter:   80 | Time: 00:22:21 | Train_A Loss: 0.2374 | Train_B Loss: 0.2588
+Epoch: 2 | Iter:  100 | Time: 00:24:12 | Train_A Loss: 0.2624 | Train_B Loss: 0.2450
+Epoch: 2 | Iter:  120 | Time: 00:26:03 | Train_A Loss: 0.2355 | Train_B Loss: 0.2339
+Epoch: 2 | Iter:  140 | Time: 00:27:55 | Train_A Loss: 0.2137 | Train_B Loss: 0.2247
+
+ EPOCH 2/10000 	 Avg. Train_A loss this Epoch 0.24827592074871063 	 Avg. Train_B loss this Epoch 0.24798840284347534 	 Test loss A 0.06652248650789261 	 Test loss B 0.06381147354841232
+Epoch: 3 | Iter:    0 | Time: 00:29:41 | Train_A Loss: 0.2389 | Train_B Loss: 0.2434
+Epoch: 3 | Iter:   20 | Time: 00:31:34 | Train_A Loss: 0.2268 | Train_B Loss: 0.2329
+Epoch: 3 | Iter:   40 | Time: 00:33:27 | Train_A Loss: 0.2239 | Train_B Loss: 0.2462
+Epoch: 3 | Iter:   60 | Time: 00:35:18 | Train_A Loss: 0.2180 | Train_B Loss: 0.2198
+Epoch: 3 | Iter:   80 | Time: 00:37:10 | Train_A Loss: 0.2179 | Train_B Loss: 0.2167
+Epoch: 3 | Iter:  100 | Time: 00:39:01 | Train_A Loss: 0.2333 | Train_B Loss: 0.2056
+Epoch: 3 | Iter:  120 | Time: 00:40:53 | Train_A Loss: 0.2265 | Train_B Loss: 0.2266
+Epoch: 3 | Iter:  140 | Time: 00:42:44 | Train_A Loss: 0.2152 | Train_B Loss: 0.2143
+
+ EPOCH 3/10000 	 Avg. Train_A loss this Epoch 0.2272157222032547 	 Avg. Train_B loss this Epoch 0.22829288244247437 	 Test loss A 0.06723575294017792 	 Test loss B 0.0670665055513382
+Epoch: 4 | Iter:    0 | Time: 00:44:30 | Train_A Loss: 0.2292 | Train_B Loss: 0.2251
+Epoch: 4 | Iter:   20 | Time: 00:46:23 | Train_A Loss: 0.2273 | Train_B Loss: 0.2170
+Epoch: 4 | Iter:   40 | Time: 00:48:15 | Train_A Loss: 0.2041 | Train_B Loss: 0.2194
+Epoch: 4 | Iter:   60 | Time: 00:50:06 | Train_A Loss: 0.2219 | Train_B Loss: 0.2506
+Epoch: 4 | Iter:   80 | Time: 00:51:58 | Train_A Loss: 0.2207 | Train_B Loss: 0.2006
+Epoch: 4 | Iter:  100 | Time: 00:53:49 | Train_A Loss: 0.2264 | Train_B Loss: 0.2195
+Epoch: 4 | Iter:  120 | Time: 00:55:40 | Train_A Loss: 0.2025 | Train_B Loss: 0.2070
+Epoch: 4 | Iter:  140 | Time: 00:57:31 | Train_A Loss: 0.2023 | Train_B Loss: 0.2142
+
+ EPOCH 4/10000 	 Avg. Train_A loss this Epoch 0.21376736462116241 	 Avg. Train_B loss this Epoch 0.2153240293264389 	 Test loss A 0.07318621128797531 	 Test loss B 0.07310590893030167
+Epoch: 5 | Iter:    0 | Time: 00:59:17 | Train_A Loss: 0.1969 | Train_B Loss: 0.1913
+Epoch: 5 | Iter:   20 | Time: 01:01:08 | Train_A Loss: 0.2116 | Train_B Loss: 0.2087
+Epoch: 5 | Iter:   40 | Time: 01:02:59 | Train_A Loss: 0.2158 | Train_B Loss: 0.2166
+Epoch: 5 | Iter:   60 | Time: 01:04:50 | Train_A Loss: 0.1992 | Train_B Loss: 0.2143
+Epoch: 5 | Iter:   80 | Time: 01:06:42 | Train_A Loss: 0.1976 | Train_B Loss: 0.2116
+Epoch: 5 | Iter:  100 | Time: 01:08:33 | Train_A Loss: 0.2199 | Train_B Loss: 0.2068
+Epoch: 5 | Iter:  120 | Time: 01:10:24 | Train_A Loss: 0.2127 | Train_B Loss: 0.1847
+Epoch: 5 | Iter:  140 | Time: 01:12:16 | Train_A Loss: 0.1887 | Train_B Loss: 0.1929
+
+ EPOCH 5/10000 	 Avg. Train_A loss this Epoch 0.20449919998645782 	 Avg. Train_B loss this Epoch 0.20419028401374817 	 Test loss A 0.07636870443820953 	 Test loss B 0.07638952881097794
+Epoch: 6 | Iter:    0 | Time: 01:14:01 | Train_A Loss: 0.2015 | Train_B Loss: 0.1950
+Epoch: 6 | Iter:   20 | Time: 01:15:53 | Train_A Loss: 0.1885 | Train_B Loss: 0.2037
+Epoch: 6 | Iter:   40 | Time: 01:17:44 | Train_A Loss: 0.2199 | Train_B Loss: 0.2014
+Epoch: 6 | Iter:   60 | Time: 01:19:36 | Train_A Loss: 0.1832 | Train_B Loss: 0.2189
+Epoch: 6 | Iter:   80 | Time: 01:21:27 | Train_A Loss: 0.1786 | Train_B Loss: 0.1956
+Epoch: 6 | Iter:  100 | Time: 01:23:19 | Train_A Loss: 0.2078 | Train_B Loss: 0.1851
+Epoch: 6 | Iter:  120 | Time: 01:25:11 | Train_A Loss: 0.2064 | Train_B Loss: 0.1894
+Epoch: 6 | Iter:  140 | Time: 01:27:02 | Train_A Loss: 0.1854 | Train_B Loss: 0.1822
+
+ EPOCH 6/10000 	 Avg. Train_A loss this Epoch 0.19676615297794342 	 Avg. Train_B loss this Epoch 0.1965457946062088 	 Test loss A 0.08244501054286957 	 Test loss B 0.08006034046411514
+Epoch: 7 | Iter:    0 | Time: 01:28:47 | Train_A Loss: 0.1994 | Train_B Loss: 0.1629
+Epoch: 7 | Iter:   20 | Time: 01:30:39 | Train_A Loss: 0.2036 | Train_B Loss: 0.2026
+Epoch: 7 | Iter:   40 | Time: 01:32:31 | Train_A Loss: 0.1923 | Train_B Loss: 0.1822
+Epoch: 7 | Iter:   60 | Time: 01:34:22 | Train_A Loss: 0.1741 | Train_B Loss: 0.1877
+Epoch: 7 | Iter:   80 | Time: 01:36:14 | Train_A Loss: 0.1882 | Train_B Loss: 0.1809
+Epoch: 7 | Iter:  100 | Time: 01:38:06 | Train_A Loss: 0.1812 | Train_B Loss: 0.1760
+Epoch: 7 | Iter:  120 | Time: 01:39:57 | Train_A Loss: 0.1906 | Train_B Loss: 0.2025
+Epoch: 7 | Iter:  140 | Time: 01:41:49 | Train_A Loss: 0.1718 | Train_B Loss: 0.1807
+
+ EPOCH 7/10000 	 Avg. Train_A loss this Epoch 0.18727095425128937 	 Avg. Train_B loss this Epoch 0.1890997588634491 	 Test loss A 0.08192344009876251 	 Test loss B 0.08339116722345352
+Epoch: 8 | Iter:    0 | Time: 01:43:35 | Train_A Loss: 0.1867 | Train_B Loss: 0.1854
+Epoch: 8 | Iter:   20 | Time: 01:45:27 | Train_A Loss: 0.1753 | Train_B Loss: 0.1955
+Epoch: 8 | Iter:   40 | Time: 01:47:18 | Train_A Loss: 0.1935 | Train_B Loss: 0.2235
+Epoch: 8 | Iter:   60 | Time: 01:49:10 | Train_A Loss: 0.1943 | Train_B Loss: 0.1956
+Epoch: 8 | Iter:   80 | Time: 01:51:02 | Train_A Loss: 0.1806 | Train_B Loss: 0.1696
+Epoch: 8 | Iter:  100 | Time: 01:52:54 | Train_A Loss: 0.1787 | Train_B Loss: 0.1814
+Epoch: 8 | Iter:  120 | Time: 01:54:46 | Train_A Loss: 0.1789 | Train_B Loss: 0.1868
+Epoch: 8 | Iter:  140 | Time: 01:56:41 | Train_A Loss: 0.1680 | Train_B Loss: 0.1787
+
+ EPOCH 8/10000 	 Avg. Train_A loss this Epoch 0.18572504818439484 	 Avg. Train_B loss this Epoch 0.1861511766910553 	 Test loss A 0.08472006767988205 	 Test loss B 0.08709008991718292
+Epoch: 9 | Iter:    0 | Time: 01:58:27 | Train_A Loss: 0.1813 | Train_B Loss: 0.1817
+Epoch: 9 | Iter:   20 | Time: 02:00:18 | Train_A Loss: 0.1822 | Train_B Loss: 0.1792
+Epoch: 9 | Iter:   40 | Time: 02:02:10 | Train_A Loss: 0.1969 | Train_B Loss: 0.1872
+Epoch: 9 | Iter:   60 | Time: 02:04:02 | Train_A Loss: 0.1958 | Train_B Loss: 0.1684
+Epoch: 9 | Iter:   80 | Time: 02:05:53 | Train_A Loss: 0.1885 | Train_B Loss: 0.1600
+Epoch: 9 | Iter:  100 | Time: 02:07:45 | Train_A Loss: 0.1597 | Train_B Loss: 0.1584
+Epoch: 9 | Iter:  120 | Time: 02:09:37 | Train_A Loss: 0.1890 | Train_B Loss: 0.1788
+Epoch: 9 | Iter:  140 | Time: 02:11:29 | Train_A Loss: 0.1964 | Train_B Loss: 0.2031
+
+ EPOCH 9/10000 	 Avg. Train_A loss this Epoch 0.1836833357810974 	 Avg. Train_B loss this Epoch 0.1831873208284378 	 Test loss A 0.08295965194702148 	 Test loss B 0.08705068379640579
+Epoch:10 | Iter:    0 | Time: 02:13:14 | Train_A Loss: 0.1666 | Train_B Loss: 0.1809
+Epoch:10 | Iter:   20 | Time: 02:15:05 | Train_A Loss: 0.1868 | Train_B Loss: 0.1796
+Epoch:10 | Iter:   40 | Time: 02:16:57 | Train_A Loss: 0.1789 | Train_B Loss: 0.1978
+Epoch:10 | Iter:   60 | Time: 02:18:49 | Train_A Loss: 0.1912 | Train_B Loss: 0.1904
+Epoch:10 | Iter:   80 | Time: 02:20:41 | Train_A Loss: 0.1566 | Train_B Loss: 0.1693
+Epoch:10 | Iter:  100 | Time: 02:22:32 | Train_A Loss: 0.1965 | Train_B Loss: 0.1748
+Epoch:10 | Iter:  120 | Time: 02:24:24 | Train_A Loss: 0.1610 | Train_B Loss: 0.1628
+Epoch:10 | Iter:  140 | Time: 02:26:15 | Train_A Loss: 0.1721 | Train_B Loss: 0.1756
+
+ EPOCH 10/10000 	 Avg. Train_A loss this Epoch 0.1810196340084076 	 Avg. Train_B loss this Epoch 0.18049196898937225 	 Test loss A 0.08780461549758911 	 Test loss B 0.09089882671833038
+Epoch:11 | Iter:    0 | Time: 02:28:00 | Train_A Loss: 0.1758 | Train_B Loss: 0.1795
+Epoch:11 | Iter:   20 | Time: 02:29:52 | Train_A Loss: 0.1575 | Train_B Loss: 0.1818
+Epoch:11 | Iter:   40 | Time: 02:31:43 | Train_A Loss: 0.1667 | Train_B Loss: 0.1859
+Epoch:11 | Iter:   60 | Time: 02:33:35 | Train_A Loss: 0.1877 | Train_B Loss: 0.1821
+Epoch:11 | Iter:   80 | Time: 02:35:26 | Train_A Loss: 0.1783 | Train_B Loss: 0.1874
+Epoch:11 | Iter:  100 | Time: 02:37:18 | Train_A Loss: 0.1907 | Train_B Loss: 0.1771
+Epoch:11 | Iter:  120 | Time: 02:39:10 | Train_A Loss: 0.1526 | Train_B Loss: 0.1603
+Epoch:11 | Iter:  140 | Time: 02:41:01 | Train_A Loss: 0.1856 | Train_B Loss: 0.1724
+
+ EPOCH 11/10000 	 Avg. Train_A loss this Epoch 0.17775501310825348 	 Avg. Train_B loss this Epoch 0.17832787334918976 	 Test loss A 0.09027832001447678 	 Test loss B 0.09300240874290466
+Epoch:12 | Iter:    0 | Time: 02:42:47 | Train_A Loss: 0.1762 | Train_B Loss: 0.1571
+Epoch:12 | Iter:   20 | Time: 02:44:38 | Train_A Loss: 0.1641 | Train_B Loss: 0.1715
+Epoch:12 | Iter:   40 | Time: 02:46:30 | Train_A Loss: 0.1939 | Train_B Loss: 0.1763
+Epoch:12 | Iter:   60 | Time: 02:48:21 | Train_A Loss: 0.1891 | Train_B Loss: 0.1570
+Epoch:12 | Iter:   80 | Time: 02:50:13 | Train_A Loss: 0.1824 | Train_B Loss: 0.1899
+Epoch:12 | Iter:  100 | Time: 02:52:04 | Train_A Loss: 0.1488 | Train_B Loss: 0.1705
+Epoch:12 | Iter:  120 | Time: 02:53:56 | Train_A Loss: 0.1646 | Train_B Loss: 0.1896
+Epoch:12 | Iter:  140 | Time: 02:55:48 | Train_A Loss: 0.1872 | Train_B Loss: 0.1848
+
+ EPOCH 12/10000 	 Avg. Train_A loss this Epoch 0.17711636424064636 	 Avg. Train_B loss this Epoch 0.1780892014503479 	 Test loss A 0.08770540356636047 	 Test loss B 0.09208077192306519
+Epoch:13 | Iter:    0 | Time: 02:57:34 | Train_A Loss: 0.1867 | Train_B Loss: 0.1867
+Epoch:13 | Iter:   20 | Time: 02:59:25 | Train_A Loss: 0.1738 | Train_B Loss: 0.1580
+Epoch:13 | Iter:   40 | Time: 03:01:17 | Train_A Loss: 0.1758 | Train_B Loss: 0.1841
+Epoch:13 | Iter:   60 | Time: 03:03:08 | Train_A Loss: 0.1901 | Train_B Loss: 0.1707
+Epoch:13 | Iter:   80 | Time: 03:05:00 | Train_A Loss: 0.1813 | Train_B Loss: 0.1841
+Epoch:13 | Iter:  100 | Time: 03:06:51 | Train_A Loss: 0.1645 | Train_B Loss: 0.1737
+Epoch:13 | Iter:  120 | Time: 03:08:43 | Train_A Loss: 0.1704 | Train_B Loss: 0.1717
+Epoch:13 | Iter:  140 | Time: 03:10:34 | Train_A Loss: 0.1541 | Train_B Loss: 0.1988
+
+ EPOCH 13/10000 	 Avg. Train_A loss this Epoch 0.17669126391410828 	 Avg. Train_B loss this Epoch 0.17875443398952484 	 Test loss A 0.09745371341705322 	 Test loss B 0.0943971499800682
+Epoch:14 | Iter:    0 | Time: 03:12:20 | Train_A Loss: 0.1392 | Train_B Loss: 0.1703
+Epoch:14 | Iter:   20 | Time: 03:14:12 | Train_A Loss: 0.1734 | Train_B Loss: 0.1661
+Epoch:14 | Iter:   40 | Time: 03:16:03 | Train_A Loss: 0.1883 | Train_B Loss: 0.1680
+Epoch:14 | Iter:   60 | Time: 03:17:55 | Train_A Loss: 0.1863 | Train_B Loss: 0.1826
+Epoch:14 | Iter:   80 | Time: 03:19:47 | Train_A Loss: 0.1831 | Train_B Loss: 0.1749
+Epoch:14 | Iter:  100 | Time: 03:21:38 | Train_A Loss: 0.1618 | Train_B Loss: 0.1911
+Epoch:14 | Iter:  120 | Time: 03:23:30 | Train_A Loss: 0.1788 | Train_B Loss: 0.1687
+Epoch:14 | Iter:  140 | Time: 03:25:21 | Train_A Loss: 0.1792 | Train_B Loss: 0.1613
+
+ EPOCH 14/10000 	 Avg. Train_A loss this Epoch 0.17474406957626343 	 Avg. Train_B loss this Epoch 0.17422926425933838 	 Test loss A 0.09428557753562927 	 Test loss B 0.10129066556692123
+Epoch:15 | Iter:    0 | Time: 03:27:07 | Train_A Loss: 0.1741 | Train_B Loss: 0.1944
+Epoch:15 | Iter:   20 | Time: 03:28:58 | Train_A Loss: 0.1852 | Train_B Loss: 0.1784
+Epoch:15 | Iter:   40 | Time: 03:30:50 | Train_A Loss: 0.1840 | Train_B Loss: 0.1779
+Epoch:15 | Iter:   60 | Time: 03:32:41 | Train_A Loss: 0.1962 | Train_B Loss: 0.1739
+Epoch:15 | Iter:   80 | Time: 03:34:33 | Train_A Loss: 0.1732 | Train_B Loss: 0.1848
+Epoch:15 | Iter:  100 | Time: 03:36:24 | Train_A Loss: 0.1896 | Train_B Loss: 0.1584
+Epoch:15 | Iter:  120 | Time: 03:38:16 | Train_A Loss: 0.1691 | Train_B Loss: 0.1532
+Epoch:15 | Iter:  140 | Time: 03:40:07 | Train_A Loss: 0.1676 | Train_B Loss: 0.1760
+
+ EPOCH 15/10000 	 Avg. Train_A loss this Epoch 0.17601394653320312 	 Avg. Train_B loss this Epoch 0.174216628074646 	 Test loss A 0.09490269422531128 	 Test loss B 0.09388554841279984
+Epoch:16 | Iter:    0 | Time: 03:41:52 | Train_A Loss: 0.1741 | Train_B Loss: 0.1764
+Epoch:16 | Iter:   20 | Time: 03:43:44 | Train_A Loss: 0.1718 | Train_B Loss: 0.1699
+Epoch:16 | Iter:   40 | Time: 03:45:35 | Train_A Loss: 0.1640 | Train_B Loss: 0.1829
+Epoch:16 | Iter:   60 | Time: 03:47:26 | Train_A Loss: 0.1635 | Train_B Loss: 0.1935
+Epoch:16 | Iter:   80 | Time: 03:49:17 | Train_A Loss: 0.1655 | Train_B Loss: 0.1746
+Epoch:16 | Iter:  100 | Time: 03:51:08 | Train_A Loss: 0.1719 | Train_B Loss: 0.1679
+Epoch:16 | Iter:  120 | Time: 03:53:00 | Train_A Loss: 0.1810 | Train_B Loss: 0.1714
+Epoch:16 | Iter:  140 | Time: 03:54:52 | Train_A Loss: 0.1527 | Train_B Loss: 0.1802
+
+ EPOCH 16/10000 	 Avg. Train_A loss this Epoch 0.17289066314697266 	 Avg. Train_B loss this Epoch 0.1738511621952057 	 Test loss A 0.09810219705104828 	 Test loss B 0.09377069771289825
+Epoch:17 | Iter:    0 | Time: 03:56:37 | Train_A Loss: 0.1901 | Train_B Loss: 0.1679
+Epoch:17 | Iter:   20 | Time: 03:58:29 | Train_A Loss: 0.1768 | Train_B Loss: 0.1811
+Epoch:17 | Iter:   40 | Time: 04:00:20 | Train_A Loss: 0.1566 | Train_B Loss: 0.1842
+Epoch:17 | Iter:   60 | Time: 04:02:12 | Train_A Loss: 0.1695 | Train_B Loss: 0.1832
+Epoch:17 | Iter:   80 | Time: 04:04:03 | Train_A Loss: 0.1766 | Train_B Loss: 0.1689
+Epoch:17 | Iter:  100 | Time: 04:05:55 | Train_A Loss: 0.1666 | Train_B Loss: 0.1725
+Epoch:17 | Iter:  120 | Time: 04:07:47 | Train_A Loss: 0.1698 | Train_B Loss: 0.1732
+Epoch:17 | Iter:  140 | Time: 04:09:38 | Train_A Loss: 0.1673 | Train_B Loss: 0.1781
+
+ EPOCH 17/10000 	 Avg. Train_A loss this Epoch 0.17415031790733337 	 Avg. Train_B loss this Epoch 0.17279554903507233 	 Test loss A 0.0991111770272255 	 Test loss B 0.0959746316075325
+Epoch:18 | Iter:    0 | Time: 04:11:24 | Train_A Loss: 0.2067 | Train_B Loss: 0.1800
+Epoch:18 | Iter:   20 | Time: 04:13:15 | Train_A Loss: 0.1576 | Train_B Loss: 0.2071
+Epoch:18 | Iter:   40 | Time: 04:15:07 | Train_A Loss: 0.1644 | Train_B Loss: 0.1699
+Epoch:18 | Iter:   60 | Time: 04:16:59 | Train_A Loss: 0.1888 | Train_B Loss: 0.1832
+Epoch:18 | Iter:   80 | Time: 04:18:50 | Train_A Loss: 0.1720 | Train_B Loss: 0.1758
+Epoch:18 | Iter:  100 | Time: 04:20:42 | Train_A Loss: 0.1839 | Train_B Loss: 0.1633
+Epoch:18 | Iter:  120 | Time: 04:22:33 | Train_A Loss: 0.1711 | Train_B Loss: 0.1717
+Epoch:18 | Iter:  140 | Time: 04:24:25 | Train_A Loss: 0.1673 | Train_B Loss: 0.1686
+
+ EPOCH 18/10000 	 Avg. Train_A loss this Epoch 0.17390358448028564 	 Avg. Train_B loss this Epoch 0.17400585114955902 	 Test loss A 0.0942777767777443 	 Test loss B 0.09600306302309036
+Epoch:19 | Iter:    0 | Time: 04:26:10 | Train_A Loss: 0.1767 | Train_B Loss: 0.1998
+Epoch:19 | Iter:   20 | Time: 04:28:01 | Train_A Loss: 0.1602 | Train_B Loss: 0.1544
+Epoch:19 | Iter:   40 | Time: 04:29:53 | Train_A Loss: 0.1880 | Train_B Loss: 0.1733
+Epoch:19 | Iter:   60 | Time: 04:31:44 | Train_A Loss: 0.1621 | Train_B Loss: 0.1780
+Epoch:19 | Iter:   80 | Time: 04:33:35 | Train_A Loss: 0.1487 | Train_B Loss: 0.1796
+Epoch:19 | Iter:  100 | Time: 04:35:27 | Train_A Loss: 0.1572 | Train_B Loss: 0.1765
+Epoch:19 | Iter:  120 | Time: 04:37:18 | Train_A Loss: 0.1991 | Train_B Loss: 0.1837
+Epoch:19 | Iter:  140 | Time: 04:39:10 | Train_A Loss: 0.1602 | Train_B Loss: 0.1663
+
+ EPOCH 19/10000 	 Avg. Train_A loss this Epoch 0.17388109862804413 	 Avg. Train_B loss this Epoch 0.17339536547660828 	 Test loss A 0.10164696723222733 	 Test loss B 0.09845858067274094
+Epoch:20 | Iter:    0 | Time: 04:40:56 | Train_A Loss: 0.1790 | Train_B Loss: 0.1675
+Epoch:20 | Iter:   20 | Time: 04:42:48 | Train_A Loss: 0.1978 | Train_B Loss: 0.1598
+Epoch:20 | Iter:   40 | Time: 04:44:39 | Train_A Loss: 0.1854 | Train_B Loss: 0.1778
+Epoch:20 | Iter:   60 | Time: 04:46:31 | Train_A Loss: 0.1942 | Train_B Loss: 0.1817
+Epoch:20 | Iter:   80 | Time: 04:48:22 | Train_A Loss: 0.1619 | Train_B Loss: 0.1606
+Epoch:20 | Iter:  100 | Time: 04:50:14 | Train_A Loss: 0.1717 | Train_B Loss: 0.1484
+Epoch:20 | Iter:  120 | Time: 04:52:05 | Train_A Loss: 0.1629 | Train_B Loss: 0.1676
+Epoch:20 | Iter:  140 | Time: 04:53:57 | Train_A Loss: 0.1615 | Train_B Loss: 0.1713
+
+ EPOCH 20/10000 	 Avg. Train_A loss this Epoch 0.17084857821464539 	 Avg. Train_B loss this Epoch 0.172962486743927 	 Test loss A 0.0972772091627121 	 Test loss B 0.0979791134595871
+Epoch:21 | Iter:    0 | Time: 04:55:42 | Train_A Loss: 0.1518 | Train_B Loss: 0.1637
+Epoch:21 | Iter:   20 | Time: 04:57:33 | Train_A Loss: 0.1758 | Train_B Loss: 0.1604
+Epoch:21 | Iter:   40 | Time: 04:59:25 | Train_A Loss: 0.1738 | Train_B Loss: 0.1634
+Epoch:21 | Iter:   60 | Time: 05:01:16 | Train_A Loss: 0.1385 | Train_B Loss: 0.1694
+Epoch:21 | Iter:   80 | Time: 05:03:07 | Train_A Loss: 0.1882 | Train_B Loss: 0.1827
+Epoch:21 | Iter:  100 | Time: 05:04:58 | Train_A Loss: 0.1742 | Train_B Loss: 0.1975
+Epoch:21 | Iter:  120 | Time: 05:06:50 | Train_A Loss: 0.1527 | Train_B Loss: 0.1609
+Epoch:21 | Iter:  140 | Time: 05:08:41 | Train_A Loss: 0.1582 | Train_B Loss: 0.1890
+
+ EPOCH 21/10000 	 Avg. Train_A loss this Epoch 0.17229382693767548 	 Avg. Train_B loss this Epoch 0.17389903962612152 	 Test loss A 0.10140880942344666 	 Test loss B 0.09937610477209091
+Epoch:22 | Iter:    0 | Time: 05:10:27 | Train_A Loss: 0.1798 | Train_B Loss: 0.1995
+Epoch:22 | Iter:   20 | Time: 05:12:18 | Train_A Loss: 0.1723 | Train_B Loss: 0.1748
+Epoch:22 | Iter:   40 | Time: 05:14:10 | Train_A Loss: 0.1731 | Train_B Loss: 0.1762
+Epoch:22 | Iter:   60 | Time: 05:16:01 | Train_A Loss: 0.1763 | Train_B Loss: 0.1475
+Epoch:22 | Iter:   80 | Time: 05:17:52 | Train_A Loss: 0.1551 | Train_B Loss: 0.1518
+Epoch:22 | Iter:  100 | Time: 05:19:43 | Train_A Loss: 0.1831 | Train_B Loss: 0.1711
+Epoch:22 | Iter:  120 | Time: 05:21:35 | Train_A Loss: 0.1617 | Train_B Loss: 0.1598
+Epoch:22 | Iter:  140 | Time: 05:23:26 | Train_A Loss: 0.1737 | Train_B Loss: 0.1732
+
+ EPOCH 22/10000 	 Avg. Train_A loss this Epoch 0.17293253540992737 	 Avg. Train_B loss this Epoch 0.17265528440475464 	 Test loss A 0.09432154893875122 	 Test loss B 0.10095659643411636
+Epoch:23 | Iter:    0 | Time: 05:25:12 | Train_A Loss: 0.1697 | Train_B Loss: 0.1711
+Epoch:23 | Iter:   20 | Time: 05:27:03 | Train_A Loss: 0.1490 | Train_B Loss: 0.1551
+Epoch:23 | Iter:   40 | Time: 05:28:54 | Train_A Loss: 0.1604 | Train_B Loss: 0.1455
+Epoch:23 | Iter:   60 | Time: 05:30:46 | Train_A Loss: 0.1609 | Train_B Loss: 0.1645
+Epoch:23 | Iter:   80 | Time: 05:32:37 | Train_A Loss: 0.1632 | Train_B Loss: 0.1772
+Epoch:23 | Iter:  100 | Time: 05:34:29 | Train_A Loss: 0.1673 | Train_B Loss: 0.1762
+Epoch:23 | Iter:  120 | Time: 05:36:20 | Train_A Loss: 0.1775 | Train_B Loss: 0.1714
+Epoch:23 | Iter:  140 | Time: 05:38:11 | Train_A Loss: 0.1772 | Train_B Loss: 0.1773
+
+ EPOCH 23/10000 	 Avg. Train_A loss this Epoch 0.1716022789478302 	 Avg. Train_B loss this Epoch 0.17222759127616882 	 Test loss A 0.09608050435781479 	 Test loss B 0.10097241401672363
+Epoch:24 | Iter:    0 | Time: 05:39:56 | Train_A Loss: 0.1625 | Train_B Loss: 0.1715
+Epoch:24 | Iter:   20 | Time: 05:41:48 | Train_A Loss: 0.1656 | Train_B Loss: 0.1612
+Epoch:24 | Iter:   40 | Time: 05:43:39 | Train_A Loss: 0.2048 | Train_B Loss: 0.1931
+Epoch:24 | Iter:   60 | Time: 05:45:30 | Train_A Loss: 0.1624 | Train_B Loss: 0.2097
+Epoch:24 | Iter:   80 | Time: 05:47:21 | Train_A Loss: 0.1826 | Train_B Loss: 0.1605
+Epoch:24 | Iter:  100 | Time: 05:49:13 | Train_A Loss: 0.1691 | Train_B Loss: 0.1661
+Epoch:24 | Iter:  120 | Time: 05:51:04 | Train_A Loss: 0.1736 | Train_B Loss: 0.1708
+Epoch:24 | Iter:  140 | Time: 05:52:56 | Train_A Loss: 0.1780 | Train_B Loss: 0.1785
+
+ EPOCH 24/10000 	 Avg. Train_A loss this Epoch 0.1714520901441574 	 Avg. Train_B loss this Epoch 0.1716925948858261 	 Test loss A 0.09410065412521362 	 Test loss B 0.09534014761447906
+Epoch:25 | Iter:    0 | Time: 05:54:41 | Train_A Loss: 0.1798 | Train_B Loss: 0.1829
+Epoch:25 | Iter:   20 | Time: 05:56:33 | Train_A Loss: 0.1695 | Train_B Loss: 0.1656
+Epoch:25 | Iter:   40 | Time: 05:58:24 | Train_A Loss: 0.1942 | Train_B Loss: 0.1914
+Epoch:25 | Iter:   60 | Time: 06:00:16 | Train_A Loss: 0.1932 | Train_B Loss: 0.1699
+Epoch:25 | Iter:   80 | Time: 06:02:07 | Train_A Loss: 0.1763 | Train_B Loss: 0.2081
+Epoch:25 | Iter:  100 | Time: 06:03:58 | Train_A Loss: 0.1509 | Train_B Loss: 0.1604
+Epoch:25 | Iter:  120 | Time: 06:05:50 | Train_A Loss: 0.1846 | Train_B Loss: 0.1767
+Epoch:25 | Iter:  140 | Time: 06:07:41 | Train_A Loss: 0.1657 | Train_B Loss: 0.1566
+
+ EPOCH 25/10000 	 Avg. Train_A loss this Epoch 0.17316146194934845 	 Avg. Train_B loss this Epoch 0.17463454604148865 	 Test loss A 0.09602683037519455 	 Test loss B 0.10293274372816086
+Epoch:26 | Iter:    0 | Time: 06:09:26 | Train_A Loss: 0.1462 | Train_B Loss: 0.1743
+Epoch:26 | Iter:   20 | Time: 06:11:18 | Train_A Loss: 0.1935 | Train_B Loss: 0.1708
+Epoch:26 | Iter:   40 | Time: 06:13:09 | Train_A Loss: 0.1819 | Train_B Loss: 0.1819
+Epoch:26 | Iter:   60 | Time: 06:15:01 | Train_A Loss: 0.1738 | Train_B Loss: 0.1565
+Epoch:26 | Iter:   80 | Time: 06:16:52 | Train_A Loss: 0.1563 | Train_B Loss: 0.1628
+Epoch:26 | Iter:  100 | Time: 06:18:44 | Train_A Loss: 0.1699 | Train_B Loss: 0.1639
+Epoch:26 | Iter:  120 | Time: 06:20:36 | Train_A Loss: 0.1715 | Train_B Loss: 0.1733
+Epoch:26 | Iter:  140 | Time: 06:22:27 | Train_A Loss: 0.1860 | Train_B Loss: 0.1597
+
+ EPOCH 26/10000 	 Avg. Train_A loss this Epoch 0.1709473729133606 	 Avg. Train_B loss this Epoch 0.17273113131523132 	 Test loss A 0.0941399559378624 	 Test loss B 0.10152881592512131
+Epoch:27 | Iter:    0 | Time: 06:24:12 | Train_A Loss: 0.1810 | Train_B Loss: 0.1568
+Epoch:27 | Iter:   20 | Time: 06:26:04 | Train_A Loss: 0.2019 | Train_B Loss: 0.1780
+Epoch:27 | Iter:   40 | Time: 06:27:55 | Train_A Loss: 0.1744 | Train_B Loss: 0.1752
+Epoch:27 | Iter:   60 | Time: 06:29:46 | Train_A Loss: 0.1651 | Train_B Loss: 0.1303
+Epoch:27 | Iter:   80 | Time: 06:31:38 | Train_A Loss: 0.1876 | Train_B Loss: 0.1875
+Epoch:27 | Iter:  100 | Time: 06:33:29 | Train_A Loss: 0.1643 | Train_B Loss: 0.1686
+Epoch:27 | Iter:  120 | Time: 06:35:21 | Train_A Loss: 0.1607 | Train_B Loss: 0.1629
+Epoch:27 | Iter:  140 | Time: 06:37:12 | Train_A Loss: 0.1672 | Train_B Loss: 0.1623
+
+ EPOCH 27/10000 	 Avg. Train_A loss this Epoch 0.17218618094921112 	 Avg. Train_B loss this Epoch 0.17257368564605713 	 Test loss A 0.10013070702552795 	 Test loss B 0.10036671161651611
+Epoch:28 | Iter:    0 | Time: 06:38:59 | Train_A Loss: 0.1288 | Train_B Loss: 0.1615
+Epoch:28 | Iter:   20 | Time: 06:40:50 | Train_A Loss: 0.1706 | Train_B Loss: 0.1685
+Epoch:28 | Iter:   40 | Time: 06:42:42 | Train_A Loss: 0.1658 | Train_B Loss: 0.1426
+Epoch:28 | Iter:   60 | Time: 06:44:33 | Train_A Loss: 0.1600 | Train_B Loss: 0.1656
+Epoch:28 | Iter:   80 | Time: 06:46:24 | Train_A Loss: 0.1555 | Train_B Loss: 0.1593
+Epoch:28 | Iter:  100 | Time: 06:48:16 | Train_A Loss: 0.1567 | Train_B Loss: 0.1753
+Epoch:28 | Iter:  120 | Time: 06:50:07 | Train_A Loss: 0.1546 | Train_B Loss: 0.1579
+Epoch:28 | Iter:  140 | Time: 06:51:59 | Train_A Loss: 0.1807 | Train_B Loss: 0.1957
+
+ EPOCH 28/10000 	 Avg. Train_A loss this Epoch 0.17103815078735352 	 Avg. Train_B loss this Epoch 0.17147348821163177 	 Test loss A 0.10015842318534851 	 Test loss B 0.0992693156003952
+Epoch:29 | Iter:    0 | Time: 06:53:45 | Train_A Loss: 0.1612 | Train_B Loss: 0.1521
+Epoch:29 | Iter:   20 | Time: 06:55:36 | Train_A Loss: 0.1866 | Train_B Loss: 0.1700
+Epoch:29 | Iter:   40 | Time: 06:57:28 | Train_A Loss: 0.2036 | Train_B Loss: 0.1704
+Epoch:29 | Iter:   60 | Time: 06:59:19 | Train_A Loss: 0.1632 | Train_B Loss: 0.1825
+Epoch:29 | Iter:   80 | Time: 07:01:10 | Train_A Loss: 0.1723 | Train_B Loss: 0.1732
+Epoch:29 | Iter:  100 | Time: 07:03:02 | Train_A Loss: 0.1587 | Train_B Loss: 0.1907
+Epoch:29 | Iter:  120 | Time: 07:04:53 | Train_A Loss: 0.1612 | Train_B Loss: 0.1853
+Epoch:29 | Iter:  140 | Time: 07:06:44 | Train_A Loss: 0.1694 | Train_B Loss: 0.1801
+
+ EPOCH 29/10000 	 Avg. Train_A loss this Epoch 0.17096640169620514 	 Avg. Train_B loss this Epoch 0.17118293046951294 	 Test loss A 0.09454930573701859 	 Test loss B 0.096651591360569
+Epoch:30 | Iter:    0 | Time: 07:08:30 | Train_A Loss: 0.1721 | Train_B Loss: 0.1579
+Epoch:30 | Iter:   20 | Time: 07:10:22 | Train_A Loss: 0.1575 | Train_B Loss: 0.1833
+Epoch:30 | Iter:   40 | Time: 07:12:13 | Train_A Loss: 0.1717 | Train_B Loss: 0.1737
+Epoch:30 | Iter:   60 | Time: 07:14:05 | Train_A Loss: 0.1680 | Train_B Loss: 0.1740
+Epoch:30 | Iter:   80 | Time: 07:15:56 | Train_A Loss: 0.1769 | Train_B Loss: 0.1860
+Epoch:30 | Iter:  100 | Time: 07:17:47 | Train_A Loss: 0.1520 | Train_B Loss: 0.1644
+Epoch:30 | Iter:  120 | Time: 07:19:39 | Train_A Loss: 0.1736 | Train_B Loss: 0.1664
+Epoch:30 | Iter:  140 | Time: 07:21:30 | Train_A Loss: 0.1706 | Train_B Loss: 0.1694
+
+ EPOCH 30/10000 	 Avg. Train_A loss this Epoch 0.17011478543281555 	 Avg. Train_B loss this Epoch 0.17354080080986023 	 Test loss A 0.10009482502937317 	 Test loss B 0.09723176807165146
+Epoch:31 | Iter:    0 | Time: 07:23:21 | Train_A Loss: 0.1913 | Train_B Loss: 0.2062
+Epoch:31 | Iter:   20 | Time: 07:25:12 | Train_A Loss: 0.1547 | Train_B Loss: 0.1594
+Epoch:31 | Iter:   40 | Time: 07:27:04 | Train_A Loss: 0.1718 | Train_B Loss: 0.1786
+Epoch:31 | Iter:   60 | Time: 07:28:57 | Train_A Loss: 0.1854 | Train_B Loss: 0.2254
+Epoch:31 | Iter:   80 | Time: 07:30:49 | Train_A Loss: 0.1850 | Train_B Loss: 0.1603
+Epoch:31 | Iter:  100 | Time: 07:32:42 | Train_A Loss: 0.1686 | Train_B Loss: 0.1643
+Epoch:31 | Iter:  120 | Time: 07:34:35 | Train_A Loss: 0.1573 | Train_B Loss: 0.1729
+Epoch:31 | Iter:  140 | Time: 07:36:26 | Train_A Loss: 0.1783 | Train_B Loss: 0.1627
+
+ EPOCH 31/10000 	 Avg. Train_A loss this Epoch 0.17310625314712524 	 Avg. Train_B loss this Epoch 0.1728215217590332 	 Test loss A 0.09364309906959534 	 Test loss B 0.09974392503499985
+Epoch:32 | Iter:    0 | Time: 07:38:12 | Train_A Loss: 0.1857 | Train_B Loss: 0.1560
+Epoch:32 | Iter:   20 | Time: 07:40:03 | Train_A Loss: 0.1584 | Train_B Loss: 0.1834
+Epoch:32 | Iter:   40 | Time: 07:41:55 | Train_A Loss: 0.1716 | Train_B Loss: 0.1695
+Epoch:32 | Iter:   60 | Time: 07:43:47 | Train_A Loss: 0.1995 | Train_B Loss: 0.1795
+Epoch:32 | Iter:   80 | Time: 07:45:40 | Train_A Loss: 0.1717 | Train_B Loss: 0.1736
+Epoch:32 | Iter:  100 | Time: 07:47:32 | Train_A Loss: 0.1706 | Train_B Loss: 0.1967
+Epoch:32 | Iter:  120 | Time: 07:49:24 | Train_A Loss: 0.1490 | Train_B Loss: 0.1553
+Epoch:32 | Iter:  140 | Time: 07:51:16 | Train_A Loss: 0.1407 | Train_B Loss: 0.1642
+
+ EPOCH 32/10000 	 Avg. Train_A loss this Epoch 0.17094556987285614 	 Avg. Train_B loss this Epoch 0.17306891083717346 	 Test loss A 0.1021699607372284 	 Test loss B 0.10372520983219147
+Epoch:33 | Iter:    0 | Time: 07:53:01 | Train_A Loss: 0.1813 | Train_B Loss: 0.1767
+Epoch:33 | Iter:   20 | Time: 07:54:52 | Train_A Loss: 0.1929 | Train_B Loss: 0.1672
+Epoch:33 | Iter:   40 | Time: 07:56:44 | Train_A Loss: 0.1683 | Train_B Loss: 0.1790
+Epoch:33 | Iter:   60 | Time: 07:58:35 | Train_A Loss: 0.1696 | Train_B Loss: 0.1723
+Epoch:33 | Iter:   80 | Time: 08:00:26 | Train_A Loss: 0.1738 | Train_B Loss: 0.1705
+Epoch:33 | Iter:  100 | Time: 08:02:18 | Train_A Loss: 0.1817 | Train_B Loss: 0.2024
+Epoch:33 | Iter:  120 | Time: 08:04:09 | Train_A Loss: 0.1741 | Train_B Loss: 0.1609
+Epoch:33 | Iter:  140 | Time: 08:06:01 | Train_A Loss: 0.1765 | Train_B Loss: 0.1904
+
+ EPOCH 33/10000 	 Avg. Train_A loss this Epoch 0.17151996493339539 	 Avg. Train_B loss this Epoch 0.17186228930950165 	 Test loss A 0.10319983214139938 	 Test loss B 0.09137578308582306
+Epoch:34 | Iter:    0 | Time: 08:07:46 | Train_A Loss: 0.1730 | Train_B Loss: 0.1735
+Epoch:34 | Iter:   20 | Time: 08:09:37 | Train_A Loss: 0.1841 | Train_B Loss: 0.1856
+Epoch:34 | Iter:   40 | Time: 08:11:29 | Train_A Loss: 0.1697 | Train_B Loss: 0.1887
+Epoch:34 | Iter:   60 | Time: 08:13:20 | Train_A Loss: 0.1672 | Train_B Loss: 0.1839
+Epoch:34 | Iter:   80 | Time: 08:15:11 | Train_A Loss: 0.1558 | Train_B Loss: 0.1513
+Epoch:34 | Iter:  100 | Time: 08:17:02 | Train_A Loss: 0.1599 | Train_B Loss: 0.1648
+Epoch:34 | Iter:  120 | Time: 08:18:54 | Train_A Loss: 0.1891 | Train_B Loss: 0.1674
+Epoch:34 | Iter:  140 | Time: 08:20:46 | Train_A Loss: 0.1772 | Train_B Loss: 0.1563
+
+ EPOCH 34/10000 	 Avg. Train_A loss this Epoch 0.17191071808338165 	 Avg. Train_B loss this Epoch 0.17053969204425812 	 Test loss A 0.0990106388926506 	 Test loss B 0.09791060537099838
+Epoch:35 | Iter:    0 | Time: 08:22:32 | Train_A Loss: 0.1604 | Train_B Loss: 0.1765
+Epoch:35 | Iter:   20 | Time: 08:24:24 | Train_A Loss: 0.1728 | Train_B Loss: 0.2058
+Epoch:35 | Iter:   40 | Time: 08:26:17 | Train_A Loss: 0.1782 | Train_B Loss: 0.1740
+Epoch:35 | Iter:   60 | Time: 08:28:10 | Train_A Loss: 0.1790 | Train_B Loss: 0.1742
+Epoch:35 | Iter:   80 | Time: 08:30:01 | Train_A Loss: 0.1785 | Train_B Loss: 0.1811
+Epoch:35 | Iter:  100 | Time: 08:31:53 | Train_A Loss: 0.1648 | Train_B Loss: 0.1738
+Epoch:35 | Iter:  120 | Time: 08:33:45 | Train_A Loss: 0.1856 | Train_B Loss: 0.1905
+Epoch:35 | Iter:  140 | Time: 08:35:38 | Train_A Loss: 0.1760 | Train_B Loss: 0.1825
+
+ EPOCH 35/10000 	 Avg. Train_A loss this Epoch 0.17083314061164856 	 Avg. Train_B loss this Epoch 0.17319291830062866 	 Test loss A 0.10158858448266983 	 Test loss B 0.10464015603065491
+Epoch:36 | Iter:    0 | Time: 08:37:25 | Train_A Loss: 0.1795 | Train_B Loss: 0.1588
+Epoch:36 | Iter:   20 | Time: 08:39:17 | Train_A Loss: 0.1752 | Train_B Loss: 0.1682
+Epoch:36 | Iter:   40 | Time: 08:41:10 | Train_A Loss: 0.1623 | Train_B Loss: 0.2001
+Epoch:36 | Iter:   60 | Time: 08:43:02 | Train_A Loss: 0.1898 | Train_B Loss: 0.1668
+Epoch:36 | Iter:   80 | Time: 08:44:53 | Train_A Loss: 0.1551 | Train_B Loss: 0.1728
+Epoch:36 | Iter:  100 | Time: 08:46:44 | Train_A Loss: 0.1858 | Train_B Loss: 0.1499
+Epoch:36 | Iter:  120 | Time: 08:48:35 | Train_A Loss: 0.1886 | Train_B Loss: 0.1816
+Epoch:36 | Iter:  140 | Time: 08:50:26 | Train_A Loss: 0.1941 | Train_B Loss: 0.1609
+
+ EPOCH 36/10000 	 Avg. Train_A loss this Epoch 0.17070291936397552 	 Avg. Train_B loss this Epoch 0.17074908316135406 	 Test loss A 0.10891349613666534 	 Test loss B 0.10455618798732758
+Epoch:37 | Iter:    0 | Time: 08:52:12 | Train_A Loss: 0.1684 | Train_B Loss: 0.1517
+Epoch:37 | Iter:   20 | Time: 08:54:03 | Train_A Loss: 0.1604 | Train_B Loss: 0.1467
+Epoch:37 | Iter:   40 | Time: 08:55:54 | Train_A Loss: 0.1761 | Train_B Loss: 0.1743
+Epoch:37 | Iter:   60 | Time: 08:57:45 | Train_A Loss: 0.1892 | Train_B Loss: 0.1720
+Epoch:37 | Iter:   80 | Time: 08:59:37 | Train_A Loss: 0.1649 | Train_B Loss: 0.1651
+Epoch:37 | Iter:  100 | Time: 09:01:29 | Train_A Loss: 0.1841 | Train_B Loss: 0.1653
+Epoch:37 | Iter:  120 | Time: 09:03:20 | Train_A Loss: 0.1489 | Train_B Loss: 0.1680
+Epoch:37 | Iter:  140 | Time: 09:05:12 | Train_A Loss: 0.1904 | Train_B Loss: 0.1563
+
+ EPOCH 37/10000 	 Avg. Train_A loss this Epoch 0.1715267449617386 	 Avg. Train_B loss this Epoch 0.16983050107955933 	 Test loss A 0.09953651577234268 	 Test loss B 0.10357846319675446
+Epoch:38 | Iter:    0 | Time: 09:06:57 | Train_A Loss: 0.1765 | Train_B Loss: 0.1543
+Epoch:38 | Iter:   20 | Time: 09:08:49 | Train_A Loss: 0.1895 | Train_B Loss: 0.1752
+Epoch:38 | Iter:   40 | Time: 09:10:40 | Train_A Loss: 0.1821 | Train_B Loss: 0.1765
+Epoch:38 | Iter:   60 | Time: 09:12:31 | Train_A Loss: 0.1667 | Train_B Loss: 0.1535
+Epoch:38 | Iter:   80 | Time: 09:14:23 | Train_A Loss: 0.1544 | Train_B Loss: 0.1772
+Epoch:38 | Iter:  100 | Time: 09:16:14 | Train_A Loss: 0.1833 | Train_B Loss: 0.1701
+Epoch:38 | Iter:  120 | Time: 09:18:06 | Train_A Loss: 0.1729 | Train_B Loss: 0.1738
+Epoch:38 | Iter:  140 | Time: 09:19:58 | Train_A Loss: 0.1663 | Train_B Loss: 0.1476
+
+ EPOCH 38/10000 	 Avg. Train_A loss this Epoch 0.17211414873600006 	 Avg. Train_B loss this Epoch 0.17079125344753265 	 Test loss A 0.09777997434139252 	 Test loss B 0.09938119351863861
+Epoch:39 | Iter:    0 | Time: 09:21:43 | Train_A Loss: 0.1716 | Train_B Loss: 0.1798
+Epoch:39 | Iter:   20 | Time: 09:23:35 | Train_A Loss: 0.1829 | Train_B Loss: 0.1684
+Epoch:39 | Iter:   40 | Time: 09:25:26 | Train_A Loss: 0.1751 | Train_B Loss: 0.1893
+Epoch:39 | Iter:   60 | Time: 09:27:18 | Train_A Loss: 0.1557 | Train_B Loss: 0.1687
+Epoch:39 | Iter:   80 | Time: 09:29:09 | Train_A Loss: 0.1749 | Train_B Loss: 0.1707
+Epoch:39 | Iter:  100 | Time: 09:31:01 | Train_A Loss: 0.1932 | Train_B Loss: 0.1554
+Epoch:39 | Iter:  120 | Time: 09:32:54 | Train_A Loss: 0.1698 | Train_B Loss: 0.1780
+Epoch:39 | Iter:  140 | Time: 09:34:48 | Train_A Loss: 0.1592 | Train_B Loss: 0.1622
+
+ EPOCH 39/10000 	 Avg. Train_A loss this Epoch 0.17159245908260345 	 Avg. Train_B loss this Epoch 0.17213307321071625 	 Test loss A 0.10585189610719681 	 Test loss B 0.10310690104961395
+Epoch:40 | Iter:    0 | Time: 09:36:32 | Train_A Loss: 0.1843 | Train_B Loss: 0.1769
+Epoch:40 | Iter:   20 | Time: 09:38:25 | Train_A Loss: 0.1716 | Train_B Loss: 0.1851
+Epoch:40 | Iter:   40 | Time: 09:40:17 | Train_A Loss: 0.1944 | Train_B Loss: 0.1609
+Epoch:40 | Iter:   60 | Time: 09:42:09 | Train_A Loss: 0.1540 | Train_B Loss: 0.1474
+Epoch:40 | Iter:   80 | Time: 09:44:03 | Train_A Loss: 0.1689 | Train_B Loss: 0.1572
+Epoch:40 | Iter:  100 | Time: 09:45:57 | Train_A Loss: 0.1836 | Train_B Loss: 0.1713
+Epoch:40 | Iter:  120 | Time: 09:47:52 | Train_A Loss: 0.1613 | Train_B Loss: 0.1633
+Epoch:40 | Iter:  140 | Time: 09:49:45 | Train_A Loss: 0.1796 | Train_B Loss: 0.1505
+
+ EPOCH 40/10000 	 Avg. Train_A loss this Epoch 0.1724347472190857 	 Avg. Train_B loss this Epoch 0.16960833966732025 	 Test loss A 0.09317762404680252 	 Test loss B 0.09509044140577316
+Epoch:41 | Iter:    0 | Time: 09:51:34 | Train_A Loss: 0.1827 | Train_B Loss: 0.1565
+Epoch:41 | Iter:   20 | Time: 09:53:28 | Train_A Loss: 0.1630 | Train_B Loss: 0.1633
+Epoch:41 | Iter:   40 | Time: 09:55:23 | Train_A Loss: 0.1517 | Train_B Loss: 0.1774
+Epoch:41 | Iter:   60 | Time: 09:57:18 | Train_A Loss: 0.1794 | Train_B Loss: 0.1958
+Epoch:41 | Iter:   80 | Time: 09:59:12 | Train_A Loss: 0.1507 | Train_B Loss: 0.1704
+Epoch:41 | Iter:  100 | Time: 10:01:06 | Train_A Loss: 0.1870 | Train_B Loss: 0.1893
+Epoch:41 | Iter:  120 | Time: 10:02:58 | Train_A Loss: 0.1619 | Train_B Loss: 0.1683
+Epoch:41 | Iter:  140 | Time: 10:04:51 | Train_A Loss: 0.1817 | Train_B Loss: 0.1897
+
+ EPOCH 41/10000 	 Avg. Train_A loss this Epoch 0.17224842309951782 	 Avg. Train_B loss this Epoch 0.17113450169563293 	 Test loss A 0.10027182847261429 	 Test loss B 0.10462906211614609
+Epoch:42 | Iter:    0 | Time: 10:06:44 | Train_A Loss: 0.1710 | Train_B Loss: 0.1656
+Epoch:42 | Iter:   20 | Time: 10:08:37 | Train_A Loss: 0.1604 | Train_B Loss: 0.1509
+Epoch:42 | Iter:   40 | Time: 10:10:31 | Train_A Loss: 0.1690 | Train_B Loss: 0.1912
+Epoch:42 | Iter:   60 | Time: 10:12:24 | Train_A Loss: 0.1800 | Train_B Loss: 0.1775
+Epoch:42 | Iter:   80 | Time: 10:14:17 | Train_A Loss: 0.1625 | Train_B Loss: 0.1680
+Epoch:42 | Iter:  100 | Time: 10:16:10 | Train_A Loss: 0.1634 | Train_B Loss: 0.1858
+Epoch:42 | Iter:  120 | Time: 10:18:04 | Train_A Loss: 0.1808 | Train_B Loss: 0.1706
+Epoch:42 | Iter:  140 | Time: 10:19:58 | Train_A Loss: 0.1827 | Train_B Loss: 0.1833
+
+ EPOCH 42/10000 	 Avg. Train_A loss this Epoch 0.17096401751041412 	 Avg. Train_B loss this Epoch 0.17052873969078064 	 Test loss A 0.09286189824342728 	 Test loss B 0.08858051896095276
+Epoch:43 | Iter:    0 | Time: 10:21:50 | Train_A Loss: 0.1693 | Train_B Loss: 0.1760
+Epoch:43 | Iter:   20 | Time: 10:23:44 | Train_A Loss: 0.1586 | Train_B Loss: 0.1756
+Epoch:43 | Iter:   40 | Time: 10:25:35 | Train_A Loss: 0.1888 | Train_B Loss: 0.1651
+Epoch:43 | Iter:   60 | Time: 10:27:26 | Train_A Loss: 0.1796 | Train_B Loss: 0.1853
+Epoch:43 | Iter:   80 | Time: 10:29:19 | Train_A Loss: 0.1751 | Train_B Loss: 0.1596
+Epoch:43 | Iter:  100 | Time: 10:31:12 | Train_A Loss: 0.1897 | Train_B Loss: 0.1777
+Epoch:43 | Iter:  120 | Time: 10:33:05 | Train_A Loss: 0.1816 | Train_B Loss: 0.1820
+Epoch:43 | Iter:  140 | Time: 10:34:57 | Train_A Loss: 0.1761 | Train_B Loss: 0.2098
+
+ EPOCH 43/10000 	 Avg. Train_A loss this Epoch 0.1714767962694168 	 Avg. Train_B loss this Epoch 0.1717747449874878 	 Test loss A 0.0949091985821724 	 Test loss B 0.09827324002981186
+Epoch:44 | Iter:    0 | Time: 10:36:47 | Train_A Loss: 0.1633 | Train_B Loss: 0.1427
+Epoch:44 | Iter:   20 | Time: 10:38:39 | Train_A Loss: 0.1804 | Train_B Loss: 0.1687
+Epoch:44 | Iter:   40 | Time: 10:40:31 | Train_A Loss: 0.1930 | Train_B Loss: 0.1670
+Epoch:44 | Iter:   60 | Time: 10:42:23 | Train_A Loss: 0.1772 | Train_B Loss: 0.1733
+Epoch:44 | Iter:   80 | Time: 10:44:14 | Train_A Loss: 0.1460 | Train_B Loss: 0.1660
+Epoch:44 | Iter:  100 | Time: 10:46:05 | Train_A Loss: 0.1799 | Train_B Loss: 0.1688
+Epoch:44 | Iter:  120 | Time: 10:47:57 | Train_A Loss: 0.1648 | Train_B Loss: 0.1647
+Epoch:44 | Iter:  140 | Time: 10:49:53 | Train_A Loss: 0.1619 | Train_B Loss: 0.1749
+
+ EPOCH 44/10000 	 Avg. Train_A loss this Epoch 0.1690722107887268 	 Avg. Train_B loss this Epoch 0.1689230501651764 	 Test loss A 0.09523511677980423 	 Test loss B 0.08865777403116226
+Epoch:45 | Iter:    0 | Time: 10:51:42 | Train_A Loss: 0.1535 | Train_B Loss: 0.1639
+Epoch:45 | Iter:   20 | Time: 10:53:35 | Train_A Loss: 0.1532 | Train_B Loss: 0.1858
+Epoch:45 | Iter:   40 | Time: 10:55:27 | Train_A Loss: 0.1799 | Train_B Loss: 0.1853
+Epoch:45 | Iter:   60 | Time: 10:57:20 | Train_A Loss: 0.1824 | Train_B Loss: 0.1870
+Epoch:45 | Iter:   80 | Time: 10:59:13 | Train_A Loss: 0.1710 | Train_B Loss: 0.1584
+Epoch:45 | Iter:  100 | Time: 11:01:06 | Train_A Loss: 0.2054 | Train_B Loss: 0.1925
+Epoch:45 | Iter:  120 | Time: 11:03:00 | Train_A Loss: 0.1953 | Train_B Loss: 0.1556
+Epoch:45 | Iter:  140 | Time: 11:04:51 | Train_A Loss: 0.1838 | Train_B Loss: 0.1765
+
+ EPOCH 45/10000 	 Avg. Train_A loss this Epoch 0.17173688113689423 	 Avg. Train_B loss this Epoch 0.1706189066171646 	 Test loss A 0.099276103079319 	 Test loss B 0.09922043979167938
+Epoch:46 | Iter:    0 | Time: 11:06:43 | Train_A Loss: 0.1758 | Train_B Loss: 0.1711
+Epoch:46 | Iter:   20 | Time: 11:08:37 | Train_A Loss: 0.1867 | Train_B Loss: 0.1597
+Epoch:46 | Iter:   40 | Time: 11:10:30 | Train_A Loss: 0.2023 | Train_B Loss: 0.1724
+Epoch:46 | Iter:   60 | Time: 11:12:22 | Train_A Loss: 0.1443 | Train_B Loss: 0.1601
+Epoch:46 | Iter:   80 | Time: 11:14:14 | Train_A Loss: 0.1648 | Train_B Loss: 0.1591
+Epoch:46 | Iter:  100 | Time: 11:16:07 | Train_A Loss: 0.1770 | Train_B Loss: 0.1708
+Epoch:46 | Iter:  120 | Time: 11:17:59 | Train_A Loss: 0.1855 | Train_B Loss: 0.1623
+Epoch:46 | Iter:  140 | Time: 11:19:51 | Train_A Loss: 0.1858 | Train_B Loss: 0.1474
+
+ EPOCH 46/10000 	 Avg. Train_A loss this Epoch 0.17339515686035156 	 Avg. Train_B loss this Epoch 0.17093217372894287 	 Test loss A 0.09259068220853806 	 Test loss B 0.09476052969694138
+Epoch:47 | Iter:    0 | Time: 11:21:39 | Train_A Loss: 0.1500 | Train_B Loss: 0.1824
+Epoch:47 | Iter:   20 | Time: 11:23:31 | Train_A Loss: 0.1809 | Train_B Loss: 0.1612
+Epoch:47 | Iter:   40 | Time: 11:25:23 | Train_A Loss: 0.1740 | Train_B Loss: 0.1679
+Epoch:47 | Iter:   60 | Time: 11:27:16 | Train_A Loss: 0.1510 | Train_B Loss: 0.1481
+Epoch:47 | Iter:   80 | Time: 11:29:08 | Train_A Loss: 0.1618 | Train_B Loss: 0.1805
+Epoch:47 | Iter:  100 | Time: 11:31:01 | Train_A Loss: 0.1617 | Train_B Loss: 0.1704
+Epoch:47 | Iter:  120 | Time: 11:32:54 | Train_A Loss: 0.1745 | Train_B Loss: 0.1815
+Epoch:47 | Iter:  140 | Time: 11:34:47 | Train_A Loss: 0.1541 | Train_B Loss: 0.1374
+
+ EPOCH 47/10000 	 Avg. Train_A loss this Epoch 0.17052307724952698 	 Avg. Train_B loss this Epoch 0.1741575449705124 	 Test loss A 0.10132776200771332 	 Test loss B 0.09665742516517639
+Epoch:48 | Iter:    0 | Time: 11:36:33 | Train_A Loss: 0.1590 | Train_B Loss: 0.1584
+Epoch:48 | Iter:   20 | Time: 11:38:25 | Train_A Loss: 0.1865 | Train_B Loss: 0.1878
+Epoch:48 | Iter:   40 | Time: 11:40:18 | Train_A Loss: 0.1887 | Train_B Loss: 0.1800
+Epoch:48 | Iter:   60 | Time: 11:42:11 | Train_A Loss: 0.1696 | Train_B Loss: 0.1412
+Epoch:48 | Iter:   80 | Time: 11:44:04 | Train_A Loss: 0.1664 | Train_B Loss: 0.1707
+Epoch:48 | Iter:  100 | Time: 11:45:56 | Train_A Loss: 0.1885 | Train_B Loss: 0.1699
+Epoch:48 | Iter:  120 | Time: 11:47:48 | Train_A Loss: 0.1855 | Train_B Loss: 0.1991
+Epoch:48 | Iter:  140 | Time: 11:49:41 | Train_A Loss: 0.1740 | Train_B Loss: 0.1742
+
+ EPOCH 48/10000 	 Avg. Train_A loss this Epoch 0.1725718230009079 	 Avg. Train_B loss this Epoch 0.1700049340724945 	 Test loss A 0.09703090041875839 	 Test loss B 0.09355884790420532
+Epoch:49 | Iter:    0 | Time: 11:51:28 | Train_A Loss: 0.1584 | Train_B Loss: 0.1532
+Epoch:49 | Iter:   20 | Time: 11:53:20 | Train_A Loss: 0.1794 | Train_B Loss: 0.1603
+Epoch:49 | Iter:   40 | Time: 11:55:12 | Train_A Loss: 0.1645 | Train_B Loss: 0.1634
+Epoch:49 | Iter:   60 | Time: 11:57:03 | Train_A Loss: 0.1753 | Train_B Loss: 0.1606
+Epoch:49 | Iter:   80 | Time: 11:58:55 | Train_A Loss: 0.1555 | Train_B Loss: 0.1747
+Epoch:49 | Iter:  100 | Time: 12:00:46 | Train_A Loss: 0.1807 | Train_B Loss: 0.1845
+Epoch:49 | Iter:  120 | Time: 12:02:38 | Train_A Loss: 0.1671 | Train_B Loss: 0.1769
+Epoch:49 | Iter:  140 | Time: 12:04:29 | Train_A Loss: 0.1868 | Train_B Loss: 0.1549
+
+ EPOCH 49/10000 	 Avg. Train_A loss this Epoch 0.17077359557151794 	 Avg. Train_B loss this Epoch 0.17219385504722595 	 Test loss A 0.09521645307540894 	 Test loss B 0.0932222232222557
+Epoch:50 | Iter:    0 | Time: 12:06:14 | Train_A Loss: 0.1785 | Train_B Loss: 0.1743
+Epoch:50 | Iter:   20 | Time: 12:08:06 | Train_A Loss: 0.1634 | Train_B Loss: 0.1599
+Epoch:50 | Iter:   40 | Time: 12:09:57 | Train_A Loss: 0.1670 | Train_B Loss: 0.1869
+Epoch:50 | Iter:   60 | Time: 12:11:48 | Train_A Loss: 0.1800 | Train_B Loss: 0.1784
+Epoch:50 | Iter:   80 | Time: 12:13:40 | Train_A Loss: 0.1602 | Train_B Loss: 0.1555
+Epoch:50 | Iter:  100 | Time: 12:15:31 | Train_A Loss: 0.1724 | Train_B Loss: 0.1740
+Epoch:50 | Iter:  120 | Time: 12:17:24 | Train_A Loss: 0.1625 | Train_B Loss: 0.1586
+Epoch:50 | Iter:  140 | Time: 12:19:16 | Train_A Loss: 0.1532 | Train_B Loss: 0.1848
+
+ EPOCH 50/10000 	 Avg. Train_A loss this Epoch 0.17081069946289062 	 Avg. Train_B loss this Epoch 0.17116834223270416 	 Test loss A 0.09452430158853531 	 Test loss B 0.0950222760438919
+Epoch:51 | Iter:    0 | Time: 12:21:06 | Train_A Loss: 0.1875 | Train_B Loss: 0.1858
+Epoch:51 | Iter:   20 | Time: 12:23:02 | Train_A Loss: 0.1615 | Train_B Loss: 0.1566
+Epoch:51 | Iter:   40 | Time: 12:24:56 | Train_A Loss: 0.1792 | Train_B Loss: 0.1574
+Epoch:51 | Iter:   60 | Time: 12:26:48 | Train_A Loss: 0.1665 | Train_B Loss: 0.1767
+Epoch:51 | Iter:   80 | Time: 12:28:41 | Train_A Loss: 0.1664 | Train_B Loss: 0.1718
+Epoch:51 | Iter:  100 | Time: 12:30:35 | Train_A Loss: 0.1901 | Train_B Loss: 0.1672
+Epoch:51 | Iter:  120 | Time: 12:32:27 | Train_A Loss: 0.1638 | Train_B Loss: 0.1723
+Epoch:51 | Iter:  140 | Time: 12:34:20 | Train_A Loss: 0.1802 | Train_B Loss: 0.1411
+
+ EPOCH 51/10000 	 Avg. Train_A loss this Epoch 0.17096039652824402 	 Avg. Train_B loss this Epoch 0.17116716504096985 	 Test loss A 0.09140897542238235 	 Test loss B 0.09536267071962357
+Epoch:52 | Iter:    0 | Time: 12:36:07 | Train_A Loss: 0.1949 | Train_B Loss: 0.1561
+Epoch:52 | Iter:   20 | Time: 12:37:59 | Train_A Loss: 0.1585 | Train_B Loss: 0.1779
+Epoch:52 | Iter:   40 | Time: 12:39:52 | Train_A Loss: 0.1831 | Train_B Loss: 0.1706
+Epoch:52 | Iter:   60 | Time: 12:41:44 | Train_A Loss: 0.1813 | Train_B Loss: 0.1773
+Epoch:52 | Iter:   80 | Time: 12:43:37 | Train_A Loss: 0.1893 | Train_B Loss: 0.1579
+Epoch:52 | Iter:  100 | Time: 12:45:29 | Train_A Loss: 0.1453 | Train_B Loss: 0.1680
+Epoch:52 | Iter:  120 | Time: 12:47:22 | Train_A Loss: 0.1705 | Train_B Loss: 0.1698
+Epoch:52 | Iter:  140 | Time: 12:49:15 | Train_A Loss: 0.1614 | Train_B Loss: 0.1657
+
+ EPOCH 52/10000 	 Avg. Train_A loss this Epoch 0.16927926242351532 	 Avg. Train_B loss this Epoch 0.1720895767211914 	 Test loss A 0.09627741575241089 	 Test loss B 0.09668385982513428
+Epoch:53 | Iter:    0 | Time: 12:51:03 | Train_A Loss: 0.1829 | Train_B Loss: 0.1503
+Epoch:53 | Iter:   20 | Time: 12:52:56 | Train_A Loss: 0.1573 | Train_B Loss: 0.1849
+Epoch:53 | Iter:   40 | Time: 12:54:49 | Train_A Loss: 0.1584 | Train_B Loss: 0.1519
+Epoch:53 | Iter:   60 | Time: 12:56:42 | Train_A Loss: 0.1807 | Train_B Loss: 0.1668
+Epoch:53 | Iter:   80 | Time: 12:58:34 | Train_A Loss: 0.1745 | Train_B Loss: 0.1817
+Epoch:53 | Iter:  100 | Time: 13:00:27 | Train_A Loss: 0.1887 | Train_B Loss: 0.1540
+Epoch:53 | Iter:  120 | Time: 13:02:21 | Train_A Loss: 0.1653 | Train_B Loss: 0.1502
+Epoch:53 | Iter:  140 | Time: 13:04:14 | Train_A Loss: 0.1741 | Train_B Loss: 0.1569
+
+ EPOCH 53/10000 	 Avg. Train_A loss this Epoch 0.17199264466762543 	 Avg. Train_B loss this Epoch 0.17133307456970215 	 Test loss A 0.09831872582435608 	 Test loss B 0.09982972592115402
+Epoch:54 | Iter:    0 | Time: 13:06:02 | Train_A Loss: 0.1870 | Train_B Loss: 0.1901
+Epoch:54 | Iter:   20 | Time: 13:07:55 | Train_A Loss: 0.1844 | Train_B Loss: 0.1736
+Epoch:54 | Iter:   40 | Time: 13:09:47 | Train_A Loss: 0.1539 | Train_B Loss: 0.1615
+Epoch:54 | Iter:   60 | Time: 13:11:39 | Train_A Loss: 0.1735 | Train_B Loss: 0.1856
+Epoch:54 | Iter:   80 | Time: 13:13:31 | Train_A Loss: 0.1525 | Train_B Loss: 0.1346
+Epoch:54 | Iter:  100 | Time: 13:15:23 | Train_A Loss: 0.1742 | Train_B Loss: 0.1840
+Epoch:54 | Iter:  120 | Time: 13:17:15 | Train_A Loss: 0.1767 | Train_B Loss: 0.1744
+Epoch:54 | Iter:  140 | Time: 13:19:07 | Train_A Loss: 0.1562 | Train_B Loss: 0.1532
+
+ EPOCH 54/10000 	 Avg. Train_A loss this Epoch 0.17114995419979095 	 Avg. Train_B loss this Epoch 0.17072001099586487 	 Test loss A 0.09809740632772446 	 Test loss B 0.0989978015422821
+Epoch:55 | Iter:    0 | Time: 13:20:54 | Train_A Loss: 0.1953 | Train_B Loss: 0.1710
+Epoch:55 | Iter:   20 | Time: 13:22:45 | Train_A Loss: 0.1667 | Train_B Loss: 0.1515
+Epoch:55 | Iter:   40 | Time: 13:24:36 | Train_A Loss: 0.1655 | Train_B Loss: 0.1803
+Epoch:55 | Iter:   60 | Time: 13:26:28 | Train_A Loss: 0.1869 | Train_B Loss: 0.2050
+Epoch:55 | Iter:   80 | Time: 13:28:19 | Train_A Loss: 0.1829 | Train_B Loss: 0.1673
+Epoch:55 | Iter:  100 | Time: 13:30:11 | Train_A Loss: 0.1748 | Train_B Loss: 0.1879
+Epoch:55 | Iter:  120 | Time: 13:32:02 | Train_A Loss: 0.1505 | Train_B Loss: 0.1661
+Epoch:55 | Iter:  140 | Time: 13:33:54 | Train_A Loss: 0.1404 | Train_B Loss: 0.1957
+
+ EPOCH 55/10000 	 Avg. Train_A loss this Epoch 0.17017079889774323 	 Avg. Train_B loss this Epoch 0.16967466473579407 	 Test loss A 0.09274394810199738 	 Test loss B 0.0923890471458435
+Epoch:56 | Iter:    0 | Time: 13:35:40 | Train_A Loss: 0.1376 | Train_B Loss: 0.1693
+Epoch:56 | Iter:   20 | Time: 13:37:32 | Train_A Loss: 0.1686 | Train_B Loss: 0.1665
+Epoch:56 | Iter:   40 | Time: 13:39:24 | Train_A Loss: 0.1851 | Train_B Loss: 0.1737
+Epoch:56 | Iter:   60 | Time: 13:41:17 | Train_A Loss: 0.1578 | Train_B Loss: 0.1836
+Epoch:56 | Iter:   80 | Time: 13:43:09 | Train_A Loss: 0.1802 | Train_B Loss: 0.1894
+Epoch:56 | Iter:  100 | Time: 13:45:01 | Train_A Loss: 0.1793 | Train_B Loss: 0.1514
+Epoch:56 | Iter:  120 | Time: 13:46:53 | Train_A Loss: 0.1794 | Train_B Loss: 0.1780
+Epoch:56 | Iter:  140 | Time: 13:48:46 | Train_A Loss: 0.1917 | Train_B Loss: 0.2036
+
+ EPOCH 56/10000 	 Avg. Train_A loss this Epoch 0.16901807487010956 	 Avg. Train_B loss this Epoch 0.1691247671842575 	 Test loss A 0.09650325775146484 	 Test loss B 0.09724818915128708
+Epoch:57 | Iter:    0 | Time: 13:50:32 | Train_A Loss: 0.1714 | Train_B Loss: 0.1712
+Epoch:57 | Iter:   20 | Time: 13:52:24 | Train_A Loss: 0.1505 | Train_B Loss: 0.1484
+Epoch:57 | Iter:   40 | Time: 13:54:16 | Train_A Loss: 0.1742 | Train_B Loss: 0.1758
+Epoch:57 | Iter:   60 | Time: 13:56:08 | Train_A Loss: 0.1720 | Train_B Loss: 0.1641
+Epoch:57 | Iter:   80 | Time: 13:58:00 | Train_A Loss: 0.1978 | Train_B Loss: 0.1942
+Epoch:57 | Iter:  100 | Time: 13:59:53 | Train_A Loss: 0.1879 | Train_B Loss: 0.1650
+Epoch:57 | Iter:  120 | Time: 14:01:44 | Train_A Loss: 0.1664 | Train_B Loss: 0.1783
+Epoch:57 | Iter:  140 | Time: 14:03:36 | Train_A Loss: 0.1906 | Train_B Loss: 0.1681
+
+ EPOCH 57/10000 	 Avg. Train_A loss this Epoch 0.17123980820178986 	 Avg. Train_B loss this Epoch 0.1726553738117218 	 Test loss A 0.0972733274102211 	 Test loss B 0.096504345536232
+Epoch:58 | Iter:    0 | Time: 14:05:22 | Train_A Loss: 0.1555 | Train_B Loss: 0.1539
+Epoch:58 | Iter:   20 | Time: 14:07:14 | Train_A Loss: 0.1490 | Train_B Loss: 0.1873
+Epoch:58 | Iter:   40 | Time: 14:09:06 | Train_A Loss: 0.1850 | Train_B Loss: 0.1693
+Epoch:58 | Iter:   60 | Time: 14:10:59 | Train_A Loss: 0.1884 | Train_B Loss: 0.1608
+Epoch:58 | Iter:   80 | Time: 14:12:53 | Train_A Loss: 0.1745 | Train_B Loss: 0.1702
+Epoch:58 | Iter:  100 | Time: 14:14:44 | Train_A Loss: 0.1492 | Train_B Loss: 0.1612
+Epoch:58 | Iter:  120 | Time: 14:16:34 | Train_A Loss: 0.1660 | Train_B Loss: 0.1855
+Epoch:58 | Iter:  140 | Time: 14:18:25 | Train_A Loss: 0.1496 | Train_B Loss: 0.1711
+
+ EPOCH 58/10000 	 Avg. Train_A loss this Epoch 0.17069844901561737 	 Avg. Train_B loss this Epoch 0.16895246505737305 	 Test loss A 0.0993867889046669 	 Test loss B 0.09196378290653229
+Epoch:59 | Iter:    0 | Time: 14:20:11 | Train_A Loss: 0.1489 | Train_B Loss: 0.1555
+Epoch:59 | Iter:   20 | Time: 14:22:02 | Train_A Loss: 0.1591 | Train_B Loss: 0.1781
+Epoch:59 | Iter:   40 | Time: 14:23:53 | Train_A Loss: 0.1636 | Train_B Loss: 0.1671
+Epoch:59 | Iter:   60 | Time: 14:25:44 | Train_A Loss: 0.1608 | Train_B Loss: 0.1929
+Epoch:59 | Iter:   80 | Time: 14:27:36 | Train_A Loss: 0.1655 | Train_B Loss: 0.1743
+Epoch:59 | Iter:  100 | Time: 14:29:27 | Train_A Loss: 0.1888 | Train_B Loss: 0.1827
+Epoch:59 | Iter:  120 | Time: 14:31:18 | Train_A Loss: 0.1899 | Train_B Loss: 0.1483
+Epoch:59 | Iter:  140 | Time: 14:33:09 | Train_A Loss: 0.1542 | Train_B Loss: 0.1491
+
+ EPOCH 59/10000 	 Avg. Train_A loss this Epoch 0.1689428985118866 	 Avg. Train_B loss this Epoch 0.17061719298362732 	 Test loss A 0.09541880339384079 	 Test loss B 0.0942111536860466
+Epoch:60 | Iter:    0 | Time: 14:34:55 | Train_A Loss: 0.1710 | Train_B Loss: 0.1693
+Epoch:60 | Iter:   20 | Time: 14:36:47 | Train_A Loss: 0.1670 | Train_B Loss: 0.1706
+Epoch:60 | Iter:   40 | Time: 14:38:38 | Train_A Loss: 0.1919 | Train_B Loss: 0.1848
+Epoch:60 | Iter:   60 | Time: 14:40:29 | Train_A Loss: 0.1710 | Train_B Loss: 0.1859
+Epoch:60 | Iter:   80 | Time: 14:42:20 | Train_A Loss: 0.1336 | Train_B Loss: 0.1640
+Epoch:60 | Iter:  100 | Time: 14:44:11 | Train_A Loss: 0.1953 | Train_B Loss: 0.1747
+Epoch:60 | Iter:  120 | Time: 14:46:02 | Train_A Loss: 0.1712 | Train_B Loss: 0.1917
+Epoch:60 | Iter:  140 | Time: 14:47:53 | Train_A Loss: 0.1624 | Train_B Loss: 0.1667
+
+ EPOCH 60/10000 	 Avg. Train_A loss this Epoch 0.16913430392742157 	 Avg. Train_B loss this Epoch 0.1714586764574051 	 Test loss A 0.09903424978256226 	 Test loss B 0.09862261265516281
+Epoch:61 | Iter:    0 | Time: 14:49:39 | Train_A Loss: 0.1651 | Train_B Loss: 0.1668
+Epoch:61 | Iter:   20 | Time: 14:51:31 | Train_A Loss: 0.1824 | Train_B Loss: 0.1830
+Epoch:61 | Iter:   40 | Time: 14:53:22 | Train_A Loss: 0.1701 | Train_B Loss: 0.1721
+Epoch:61 | Iter:   60 | Time: 14:55:14 | Train_A Loss: 0.1546 | Train_B Loss: 0.1808
+Epoch:61 | Iter:   80 | Time: 14:57:05 | Train_A Loss: 0.1801 | Train_B Loss: 0.1697
+Epoch:61 | Iter:  100 | Time: 14:58:57 | Train_A Loss: 0.1519 | Train_B Loss: 0.1749
+Epoch:61 | Iter:  120 | Time: 15:00:48 | Train_A Loss: 0.1565 | Train_B Loss: 0.1751
+Epoch:61 | Iter:  140 | Time: 15:02:40 | Train_A Loss: 0.1791 | Train_B Loss: 0.1819
+
+ EPOCH 61/10000 	 Avg. Train_A loss this Epoch 0.1682826280593872 	 Avg. Train_B loss this Epoch 0.1689603626728058 	 Test loss A 0.10233604162931442 	 Test loss B 0.09710531681776047
+Epoch:62 | Iter:    0 | Time: 15:04:26 | Train_A Loss: 0.1658 | Train_B Loss: 0.1699
+Epoch:62 | Iter:   20 | Time: 15:06:17 | Train_A Loss: 0.1765 | Train_B Loss: 0.1836
+Epoch:62 | Iter:   40 | Time: 15:08:08 | Train_A Loss: 0.1567 | Train_B Loss: 0.1811
+Epoch:62 | Iter:   60 | Time: 15:09:59 | Train_A Loss: 0.1574 | Train_B Loss: 0.1733
+Epoch:62 | Iter:   80 | Time: 15:11:51 | Train_A Loss: 0.1631 | Train_B Loss: 0.1503
+Epoch:62 | Iter:  100 | Time: 15:13:42 | Train_A Loss: 0.1733 | Train_B Loss: 0.1686
+Epoch:62 | Iter:  120 | Time: 15:15:33 | Train_A Loss: 0.1776 | Train_B Loss: 0.1779
+Epoch:62 | Iter:  140 | Time: 15:17:25 | Train_A Loss: 0.1675 | Train_B Loss: 0.1839
+
+ EPOCH 62/10000 	 Avg. Train_A loss this Epoch 0.1693444699048996 	 Avg. Train_B loss this Epoch 0.16958121955394745 	 Test loss A 0.09735017269849777 	 Test loss B 0.10081539303064346
+Epoch:63 | Iter:    0 | Time: 15:19:11 | Train_A Loss: 0.1861 | Train_B Loss: 0.1777
+Epoch:63 | Iter:   20 | Time: 15:21:03 | Train_A Loss: 0.1905 | Train_B Loss: 0.1609
+Epoch:63 | Iter:   40 | Time: 15:22:58 | Train_A Loss: 0.1811 | Train_B Loss: 0.1730
+Epoch:63 | Iter:   60 | Time: 15:24:52 | Train_A Loss: 0.1687 | Train_B Loss: 0.1734
+Epoch:63 | Iter:   80 | Time: 15:26:45 | Train_A Loss: 0.1928 | Train_B Loss: 0.1632
+Epoch:63 | Iter:  100 | Time: 15:28:36 | Train_A Loss: 0.1658 | Train_B Loss: 0.1519
+Epoch:63 | Iter:  120 | Time: 15:30:29 | Train_A Loss: 0.1640 | Train_B Loss: 0.1658
+Epoch:63 | Iter:  140 | Time: 15:32:24 | Train_A Loss: 0.1623 | Train_B Loss: 0.1591
+
+ EPOCH 63/10000 	 Avg. Train_A loss this Epoch 0.17130519449710846 	 Avg. Train_B loss this Epoch 0.17038698494434357 	 Test loss A 0.09637293219566345 	 Test loss B 0.09236149489879608
+Epoch:64 | Iter:    0 | Time: 15:34:11 | Train_A Loss: 0.1670 | Train_B Loss: 0.1545
+Epoch:64 | Iter:   20 | Time: 15:36:05 | Train_A Loss: 0.1894 | Train_B Loss: 0.1649
+Epoch:64 | Iter:   40 | Time: 15:38:00 | Train_A Loss: 0.1761 | Train_B Loss: 0.1767
+Epoch:64 | Iter:   60 | Time: 15:39:55 | Train_A Loss: 0.1760 | Train_B Loss: 0.2039
+Epoch:64 | Iter:   80 | Time: 15:41:52 | Train_A Loss: 0.1748 | Train_B Loss: 0.1765
+Epoch:64 | Iter:  100 | Time: 15:43:47 | Train_A Loss: 0.1816 | Train_B Loss: 0.1787
+Epoch:64 | Iter:  120 | Time: 15:45:43 | Train_A Loss: 0.1571 | Train_B Loss: 0.1661
+Epoch:64 | Iter:  140 | Time: 15:47:37 | Train_A Loss: 0.1680 | Train_B Loss: 0.1600
+
+ EPOCH 64/10000 	 Avg. Train_A loss this Epoch 0.17062883079051971 	 Avg. Train_B loss this Epoch 0.17297540605068207 	 Test loss A 0.09840992838144302 	 Test loss B 0.09872796386480331
+Epoch:65 | Iter:    0 | Time: 15:49:25 | Train_A Loss: 0.1878 | Train_B Loss: 0.1547
+Epoch:65 | Iter:   20 | Time: 15:51:18 | Train_A Loss: 0.1602 | Train_B Loss: 0.1511
+Epoch:65 | Iter:   40 | Time: 15:53:13 | Train_A Loss: 0.1837 | Train_B Loss: 0.1627
+Epoch:65 | Iter:   60 | Time: 15:55:07 | Train_A Loss: 0.1742 | Train_B Loss: 0.1519
+Epoch:65 | Iter:   80 | Time: 15:57:01 | Train_A Loss: 0.1649 | Train_B Loss: 0.1532
+Epoch:65 | Iter:  100 | Time: 15:58:56 | Train_A Loss: 0.1774 | Train_B Loss: 0.1563
+Epoch:65 | Iter:  120 | Time: 16:00:50 | Train_A Loss: 0.1793 | Train_B Loss: 0.1543
+Epoch:65 | Iter:  140 | Time: 16:02:43 | Train_A Loss: 0.1719 | Train_B Loss: 0.1646
+
+ EPOCH 65/10000 	 Avg. Train_A loss this Epoch 0.17101985216140747 	 Avg. Train_B loss this Epoch 0.16925449669361115 	 Test loss A 0.09838537126779556 	 Test loss B 0.1028979942202568
+Epoch:66 | Iter:    0 | Time: 16:04:34 | Train_A Loss: 0.1747 | Train_B Loss: 0.1502
+Epoch:66 | Iter:   20 | Time: 16:06:28 | Train_A Loss: 0.1668 | Train_B Loss: 0.1622
+Epoch:66 | Iter:   40 | Time: 16:08:21 | Train_A Loss: 0.1599 | Train_B Loss: 0.1628
+Epoch:66 | Iter:   60 | Time: 16:10:14 | Train_A Loss: 0.1662 | Train_B Loss: 0.1630
+Epoch:66 | Iter:   80 | Time: 16:12:07 | Train_A Loss: 0.1613 | Train_B Loss: 0.1547
+Epoch:66 | Iter:  100 | Time: 16:14:00 | Train_A Loss: 0.1788 | Train_B Loss: 0.1680
+Epoch:66 | Iter:  120 | Time: 16:15:52 | Train_A Loss: 0.1716 | Train_B Loss: 0.1456
+Epoch:66 | Iter:  140 | Time: 16:17:44 | Train_A Loss: 0.1683 | Train_B Loss: 0.1586
+
+ EPOCH 66/10000 	 Avg. Train_A loss this Epoch 0.17275381088256836 	 Avg. Train_B loss this Epoch 0.16977596282958984 	 Test loss A 0.09752922505140305 	 Test loss B 0.09899573028087616
+Epoch:67 | Iter:    0 | Time: 16:19:30 | Train_A Loss: 0.1809 | Train_B Loss: 0.1872
+Epoch:67 | Iter:   20 | Time: 16:21:22 | Train_A Loss: 0.1746 | Train_B Loss: 0.1793
+Epoch:67 | Iter:   40 | Time: 16:23:16 | Train_A Loss: 0.1751 | Train_B Loss: 0.1727
+Epoch:67 | Iter:   60 | Time: 16:25:10 | Train_A Loss: 0.1602 | Train_B Loss: 0.1483
+Epoch:67 | Iter:   80 | Time: 16:27:05 | Train_A Loss: 0.1854 | Train_B Loss: 0.1759
+Epoch:67 | Iter:  100 | Time: 16:28:58 | Train_A Loss: 0.1666 | Train_B Loss: 0.1752
+Epoch:67 | Iter:  120 | Time: 16:30:52 | Train_A Loss: 0.1736 | Train_B Loss: 0.1689
+Epoch:67 | Iter:  140 | Time: 16:32:45 | Train_A Loss: 0.1767 | Train_B Loss: 0.1541
+
+ EPOCH 67/10000 	 Avg. Train_A loss this Epoch 0.17061106860637665 	 Avg. Train_B loss this Epoch 0.17059284448623657 	 Test loss A 0.09517153352499008 	 Test loss B 0.09553088247776031
+Epoch:68 | Iter:    0 | Time: 16:34:32 | Train_A Loss: 0.1806 | Train_B Loss: 0.1489
+Epoch:68 | Iter:   20 | Time: 16:36:25 | Train_A Loss: 0.1602 | Train_B Loss: 0.1387
+Epoch:68 | Iter:   40 | Time: 16:38:17 | Train_A Loss: 0.1693 | Train_B Loss: 0.1745
+Epoch:68 | Iter:   60 | Time: 16:40:08 | Train_A Loss: 0.1623 | Train_B Loss: 0.1680
+Epoch:68 | Iter:   80 | Time: 16:42:00 | Train_A Loss: 0.1513 | Train_B Loss: 0.1920
+Epoch:68 | Iter:  100 | Time: 16:43:51 | Train_A Loss: 0.1892 | Train_B Loss: 0.1762
+Epoch:68 | Iter:  120 | Time: 16:45:43 | Train_A Loss: 0.1801 | Train_B Loss: 0.1853
+Epoch:68 | Iter:  140 | Time: 16:47:36 | Train_A Loss: 0.1660 | Train_B Loss: 0.1475
+
+ EPOCH 68/10000 	 Avg. Train_A loss this Epoch 0.1711432784795761 	 Avg. Train_B loss this Epoch 0.16948963701725006 	 Test loss A 0.10019662231206894 	 Test loss B 0.09931759536266327
+Epoch:69 | Iter:    0 | Time: 16:49:26 | Train_A Loss: 0.1851 | Train_B Loss: 0.1547
+Epoch:69 | Iter:   20 | Time: 16:51:19 | Train_A Loss: 0.1600 | Train_B Loss: 0.1681
+Epoch:69 | Iter:   40 | Time: 16:53:11 | Train_A Loss: 0.1835 | Train_B Loss: 0.1900
+Epoch:69 | Iter:   60 | Time: 16:55:02 | Train_A Loss: 0.1787 | Train_B Loss: 0.1595
+Epoch:69 | Iter:   80 | Time: 16:56:55 | Train_A Loss: 0.1759 | Train_B Loss: 0.1719
+Epoch:69 | Iter:  100 | Time: 16:58:48 | Train_A Loss: 0.1630 | Train_B Loss: 0.1581
+Epoch:69 | Iter:  120 | Time: 17:00:40 | Train_A Loss: 0.1529 | Train_B Loss: 0.1655
+Epoch:69 | Iter:  140 | Time: 17:02:32 | Train_A Loss: 0.1609 | Train_B Loss: 0.1597
+
+ EPOCH 69/10000 	 Avg. Train_A loss this Epoch 0.17166948318481445 	 Avg. Train_B loss this Epoch 0.16988344490528107 	 Test loss A 0.09506171196699142 	 Test loss B 0.09457781910896301
+Epoch:70 | Iter:    0 | Time: 17:04:19 | Train_A Loss: 0.1902 | Train_B Loss: 0.1646
+Epoch:70 | Iter:   20 | Time: 17:06:12 | Train_A Loss: 0.1826 | Train_B Loss: 0.1802
+Epoch:70 | Iter:   40 | Time: 17:08:05 | Train_A Loss: 0.1780 | Train_B Loss: 0.1472
+Epoch:70 | Iter:   60 | Time: 17:09:57 | Train_A Loss: 0.1580 | Train_B Loss: 0.1593
+Epoch:70 | Iter:   80 | Time: 17:11:50 | Train_A Loss: 0.1556 | Train_B Loss: 0.1797
+Epoch:70 | Iter:  100 | Time: 17:13:43 | Train_A Loss: 0.2011 | Train_B Loss: 0.1885
+Epoch:70 | Iter:  120 | Time: 17:15:35 | Train_A Loss: 0.1552 | Train_B Loss: 0.1770
+Epoch:70 | Iter:  140 | Time: 17:17:27 | Train_A Loss: 0.1659 | Train_B Loss: 0.1729
+
+ EPOCH 70/10000 	 Avg. Train_A loss this Epoch 0.17156365513801575 	 Avg. Train_B loss this Epoch 0.16846385598182678 	 Test loss A 0.09428927302360535 	 Test loss B 0.09782970696687698
+Epoch:71 | Iter:    0 | Time: 17:19:16 | Train_A Loss: 0.1667 | Train_B Loss: 0.1408
+Epoch:71 | Iter:   20 | Time: 17:21:07 | Train_A Loss: 0.1821 | Train_B Loss: 0.1860
+Epoch:71 | Iter:   40 | Time: 17:22:59 | Train_A Loss: 0.1683 | Train_B Loss: 0.1756
+Epoch:71 | Iter:   60 | Time: 17:24:50 | Train_A Loss: 0.1632 | Train_B Loss: 0.1639
+Epoch:71 | Iter:   80 | Time: 17:26:42 | Train_A Loss: 0.1622 | Train_B Loss: 0.1901
+Epoch:71 | Iter:  100 | Time: 17:28:33 | Train_A Loss: 0.1840 | Train_B Loss: 0.1672
